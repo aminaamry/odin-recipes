@@ -1,1 +1,1 @@
-This is a  website including some recipes
+This is a basic website including some recipes using knewly aquired HTML Basics knowledge.
